@@ -9,12 +9,9 @@
 ### Languages and Tools:
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&theme=default)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&theme=default&show_icons=true&count_private=true&hide=issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbriJr&layout=compact)](https://github.com/UbriJr/github-readme-stats)
-
-
-![GH](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **UbriJr/UbriJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
