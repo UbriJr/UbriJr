@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Eddie 👋
+
+## I'm a Computer Science Student @ The Pennslyvania State University!
+- 🔭 I’m currently working on HOUSE.
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything!
+- 📫 How to reach me: evu5018@psu.edu[website]
 
 <!--
 **UbriJr/UbriJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
