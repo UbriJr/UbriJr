@@ -12,9 +12,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/overview.svg)
+![GitHUB](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/overview.svg)
 
-![](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/languages.svg)
+![GH](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **UbriJr/UbriJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
