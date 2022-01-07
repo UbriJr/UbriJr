@@ -10,7 +10,9 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&theme=dark)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&theme=default)
 
 ![GitHUB](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/overview.svg)
 
