@@ -9,12 +9,10 @@
 ### Languages and Tools:
 
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&theme=dark)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=UbriJr&theme=default)
 
-![GitHUB](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/overview.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbriJr&layout=compact)](https://github.com/UbriJr/github-readme-stats)
+
 
 ![GH](https://raw.githubusercontent.com/UbriJr/github-stats-transparent/output/generated/languages.svg)
 
