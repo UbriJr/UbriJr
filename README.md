@@ -5,6 +5,9 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: evu5018@psu.edu
 
+## Publications:
+- Game Design for Better Security of Combination Locks: [DOI](https://doi.org/10.1609/aaai.v36i11.21547)
+
 ![:UbriJr](https://count.getloli.com/get/@:UbriJr?theme=moebooru)
 ***
 
