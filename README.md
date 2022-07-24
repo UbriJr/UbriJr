@@ -1,14 +1,16 @@
 ## Hi, I'm Eddie 👋 
 - :brain: I'm a Computer Science Student @ The Pennsylvania State University! 
 - 🔭 I’m currently working on [HOUSE](https://github.com/UbriJr/HOUSE).
-- :surfing_man: I’m currently learning game developement.                          ![:UbriJr](https://count.getloli.com/get/@:UbriJr?theme=moebooru)
+- :surfing_man: I’m currently learning game developement.                          
 - 💬 Ask me about anything!
 - 📫 How to reach me: evu5018@psu.edu
+
+![:UbriJr](https://count.getloli.com/get/@:UbriJr?theme=moebooru)
+***
 
 ## Publications:
 - Game Design for Better Security of Combination Locks. Proceedings of the AAAI Conference on Artificial Intelligence, 36(11), 12706-12712. [link](https://doi.org/10.1609/aaai.v36i11.21547)
 
-![:UbriJr](https://count.getloli.com/get/@:UbriJr?theme=moebooru)
 ***
 
 ### Languages and Tools:
