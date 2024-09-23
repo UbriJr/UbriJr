@@ -1,9 +1,9 @@
 ## Hi, I'm Eddie 👋 
-- :brain: I'm a Computer Science Student @ The Pennsylvania State University! 
+- :brain: I'm a full time Software Engineer !
 - 🔭 I’m currently working on [HOUSE](https://github.com/UbriJr/HOUSE).
 - :surfing_man: I’m currently learning game developement.                          
 - 💬 Ask me about anything!
-- 📫 How to reach me: evu5018@psu.edu
+- 📫 How to reach me: pending...
 
 ![:UbriJr](https://count.getloli.com/get/@:UbriJr?theme=moebooru)
 ***
