@@ -1,7 +1,7 @@
 ## Hi, I'm Eddie 👋 
-- :brain: I'm a full time Software Engineer !
+- :brain: I'm a full time Software Engineer!
 - 🔭 I’m currently working on [HOUSE](https://github.com/UbriJr/HOUSE).
-- :surfing_man: I’m currently learning game developement.                          
+- :surfing_man: I’m currently learning game development.                          
 - 💬 Ask me about anything!
 - 📫 How to reach me: pending...
 
